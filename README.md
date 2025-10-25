@@ -1,8 +1,8 @@
 # Hi, I'm Devansh 👋
 
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)](https://www.kaggle.com/your-kaggle-username)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)](https://www.kaggle.com/DevanshSharmaJi)
 
-A few example badge/snippets you can use (replace your-kaggle-username):
+A few example badge/snippets you can use (replace DevanshSharmaJi):
 
 - Simple Kaggle profile badge (clickable):
 ```
