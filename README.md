@@ -1,12 +1,21 @@
 # Hi, I'm Devansh
 
-I'm a data analyst working in healthcare claims, building toward ML and AI engineering through hands-on projects.
+Data analyst working in healthcare, building production ML pipelines
+and clinical data systems.
 
-## What I'm building
-[Claims Data Auditor](https://github.com/DevanshSharmaJi/claims-data-auditor)— a command-line tool that runs automated quality checks on healthcare claims CSVs and produces a structured PASS/FAIL audit report.
+## Projects
+
+[Patient Status Prediction](https://github.com/DevanshSharmaJi/patient-status-prediction)
+— Random Forest pipeline predicting patient enrollment status (Active vs Inactive)
+on 44K+ records. Achieves 94% Active Recall with threshold-tuned Inactive detection.
+
+[Claims Data Auditor](https://github.com/DevanshSharmaJi/claims-data-auditor)
+— CLI tool for automated quality checks on healthcare claims CSVs,
+producing structured PASS/FAIL audit reports.
 
 ## Currently learning
-Currently learning scikit-learning and will be building a model.
+Machine learning in production — model evaluation, feature engineering,
+hyperparameter tuning, and clinical ML deployment.
 
 ## Domain
-Healthcare data, claims analytics, ML
+Healthcare data · Clinical pipelines · ML engineering
